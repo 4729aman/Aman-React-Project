@@ -1,0 +1,40 @@
+{
+  "workouts": [
+    {
+      "title": "run",
+      "cb": "100",
+      "description": "running",
+      "id": 1,
+      "startTime": "2022-11-04T13:48:17.431Z",
+      "EndTime": "2022-11-04T13:48:18.634Z",
+      "TotalCalories": 4733.7283333333335
+    },
+    {
+      "title": "walk",
+      "cb": "100",
+      "description": "walking",
+      "id": 2,
+      "startTime": "2022-11-04T13:51:20.292Z",
+      "EndTime": "2022-11-04T13:51:08.642Z",
+      "TotalCalories": 5013.97
+    },
+    {
+      "title": "Nadeem",
+      "cb": "500",
+      "description": "running",
+      "id": 6,
+      "EndTime": "2022-11-04T15:21:39.773Z",
+      "TotalCalories": 33.4,
+      "startTime": "2022-11-04T15:21:35.765Z"
+    },
+    {
+      "title": "Andleeb",
+      "cb": "600",
+      "description": "Walking",
+      "id": 8,
+      "startTime": "2022-11-04T15:35:38.193Z",
+      "EndTime": "2022-11-04T15:35:45.101Z",
+      "TotalCalories": 69.08
+    }
+  ]
+}
